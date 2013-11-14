@@ -1,7 +1,6 @@
 [submodule "InputListener"]
 	path = InputListener
 	url = https://github.com/JGProg/ListenerInputs.git
-
-[submodule "JSON-Server-Client"]
+[submodule "JSONServerClient"]
 	path = JSONServerClient
-	url = https://github.com/JGProg/JSON-Server-Client.git
+	url = http://github.com/JGProg/JSON-Server-Client.git
